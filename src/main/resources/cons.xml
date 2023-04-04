@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="GBK" ?>
+<configs>
+    		
+    <!-- ***********************************服务IP***********************************-->
+	<config 
+		name="SERVICEIP" 
+		value="t1.tongquyou.com"
+		desc="服务IP" />		
+
+</configs>
